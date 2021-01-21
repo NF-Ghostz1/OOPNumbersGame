@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Numbers Game CW", "Numbers Game CW\Numbers Game CW.vcxproj", "{82043AE1-B9B0-4374-A124-B169FCE41F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Debug|x64.ActiveCfg = Debug|x64
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Debug|x64.Build.0 = Debug|x64
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Debug|x86.ActiveCfg = Debug|Win32
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Debug|x86.Build.0 = Debug|Win32
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Release|x64.ActiveCfg = Release|x64
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Release|x64.Build.0 = Release|x64
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Release|x86.ActiveCfg = Release|Win32
+		{82043AE1-B9B0-4374-A124-B169FCE41F59}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E94233-125B-45F9-8246-3438127A86C9}
+	EndGlobalSection
+EndGlobal
